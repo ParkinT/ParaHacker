@@ -1,0 +1,2 @@
+/* CSS styles to hide the Contac Form */
+#hidden_contact-form, .hidden_form-group, #hidden_c_name, #hidden_c_email, #hidden_c_message, .btn-custom-1 { display: none; }
