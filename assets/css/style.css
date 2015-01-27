@@ -360,6 +360,48 @@ a,
 	margin-right: 6px;
 }
 
+.new {
+  margin-left: 2px;
+  font-size: 73%;
+  color: #44C146;
+  font-weight: 300;
+}
+
+.rotate {
+
+/* Safari */
+-webkit-transform: rotate(-90deg);
+
+/* Firefox */
+-moz-transform: rotate(-90deg);
+
+/* IE */
+-ms-transform: rotate(-90deg);
+
+/* Opera */
+-o-transform: rotate(-90deg);
+
+/* Internet Explorer */
+filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+
+}
+
+.tilt {
+
+/* Safari */
+-webkit-transform: rotate(-30deg);
+
+/* Firefox */
+-moz-transform: rotate(-30deg);
+
+/* IE */
+-ms-transform: rotate(-30deg);
+
+/* Opera */
+-o-transform: rotate(-30deg);
+
+}
+
 h3 > .fa {
 	font-size: 24px;
 	margin-right: 6px;
