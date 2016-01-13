@@ -23,17 +23,17 @@ Active Contributor to Open Source Software
 Profesional Profile
 
 I have been working on the Internet since 2002, when it was very young. Before that I had built electronic circuits from discrete parts and wrote software utilities in ASSEMBLY Language.
-An insatiable "Hacker" spirit drives me to incessantly explore, study, dissect and learn new techniques and technologies.
+An insatiable "Hacker" spirit drives me incessantly to explore, study, dissect and learn new techniques and technologies.
 
-A Technical Trainer, Author, Screencaster and Avid Logophile, when faced with a "Glass Half Empty" problem, I believe __The Glass was OverDesigned__.
+A Technical Trainer, Author, Screencaster and Avid Logophile; when faced with a "Glass Half Empty" problem, I believe __The Glass was Over Designed__.
 
-Currently employed on a DoD contract for the US Air Force, with an Active Security Clearance, as [Automated Test Engineer] (https://www.linkedin.com/jobs2/view/1465399)Automated Test Engineer.
+Currently responsible for the Rails API (back-end) of [Disciplr.com](https://disciplr.com) I previously spent a decade on a DoD contract for the US Air Force, with an Active Security Clearance, as [Automated Test Engineer] (https://www.linkedin.com/jobs2/view/1465399)Automated Test Engineer and Technical Trainer.
 [More](https://github.com/ParkinT/HireMe#tldr).
 
 
 ### What is a ParaHacker?
 
-30+ Years of Experience
+35+ Years of Experience
 
 #### Technical Writing
 
@@ -78,7 +78,7 @@ Regular, consistent contributions to Open Source Software keep my skills sharp. 
 
 
 ### Experience
-30+ Years in Technology
+40+ Years in Technology
 
 ##### Technical Writing
 
@@ -88,6 +88,7 @@ Regular, consistent contributions to Open Source Software keep my skills sharp. 
  - [The Path to Better VI Skills](http://www.sitepoint.com/path-better-vi-skills/)
  - [RubyMotion: Dreams Do Come True](http://www.sitepoint.com/rubymotion-dreams-do-come-true/)
  - [Make Your P@55w0rd Secure](http://wistful-thinking.com/make-your-p55w0rd-secure/)
+ - [TDD is **D**arned **D**ifficult](http://wistful-thinking.com/tdd-is-darned-difficult/)
 
 ##### Screencasts
 
@@ -104,13 +105,17 @@ Open Source Software
 I am an [active contributor](http://resume.github.io/?parkint) to [Open Source Software](https://github.com/ParkinT)
 
 
+Senior Rails Developer
+
+I am responsible for the Rails API (back-end) for [Disciplr.com](https://disciplr.com) that feeds an Angular JS front-end.
+
 Software Test Engineer
 
-I provide [Integration and Verification Testing](https://github.com/ParkinT/HireMe/blob/Experience/EXPERIENCE.md#jmps-software-test-engineer) on the Systems Engineering & Integration Contract (SEIC) for Joint Mission Planning System (JMPS) on a DoD contract for the US Air Force.
+I provided [Integration and Verification Testing](https://github.com/ParkinT/HireMe/blob/Experience/EXPERIENCE.md#jmps-software-test-engineer) on the Systems Engineering & Integration Contract (SEIC) for Joint Mission Planning System (JMPS) on a DoD contract for the US Air Force.
 
 Developer Training
 
-I provide [Training to Developers](https://github.com/ParkinT/HireMe/blob/Experience/EXPERIENCE.md#saic-now-leidos-present-1) from around the world as part of the SEIC for JMPS.
+I provided [Training to Developers](https://github.com/ParkinT/HireMe/blob/Experience/EXPERIENCE.md#saic-now-leidos-present-1) from around the world as part of the SEIC for JMPS.
 
 
 ##### Telecommunications
@@ -133,4 +138,3 @@ I worked on the emerging Internet Technologies as a [Product Specialist](https:/
  - [EnderStore](http://www.enderstore.com/) : Ruby on Rails
 
 I am always interested in new technology challenges and would welcome an opportunity to apply my [creative talents](https://github.com/ParkinT/HireMe/blob/TechnicalAchievements/ACCOMPLISHMENTS.md#technical-writing-and-presentations) and [unique set of skills](https://github.com/ParkinT/HireMe/blob/Skills/EXPERTISE.md) to __[Solving Problems](https://github.com/ParkinT/HireMe#tldr)__.
-            
