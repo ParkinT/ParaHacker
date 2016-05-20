@@ -39,6 +39,8 @@ Currently responsible for the Rails API (back-end) of [Disciplr.com](https://dis
 
 Author for [RubySource.com](http://rubysource.com/author/tparkin/)
 
+Second Interview with [Charles Max Wood](https://devchat.tv/ruby-rogues/245-rr-the-charles-max-wood-interview-with-thom-parkin) aired as Ruby Rogues episode 245
+
 Created [Regular Expressions](https://learnable.com/jumpcasts/get-started-with-regex-67/video) Tutorial for [Learnable.com](https://learnable.com/jumpcasts/get-started-with-regex-67/video)
 
 [Make Your P@55w0rd Secure](http://wistful-thinking.com/make-your-p55w0rd-secure/)
@@ -52,16 +54,15 @@ Created [Regular Expressions](https://learnable.com/jumpcasts/get-started-with-r
 Conducted [Online Expert](http://www.sitepoint.com/we-talked-git-with-an-expert-the-transcript/) Session for Sitepoint on Regular Expressions
  
 #### Languages / Technologies / Sites
- - Ruby on Rails / Capistrano / Bundler
+ - Ruby on Rails / Capistrano / Bundler / REST
  - Heroku / Docker / Nitrous.IO
  - HTML / CSS / SASS
  - git / SVN
  - iOS / RubyMotion
- - SOAP / JSON / MVC / REST
+ - JSON
  - MySQL / PostgeSQL / MSSQL
- - JavaScript / JQuery / Node.JS
+ - Angular JS / Node.JS
  - Unity3D / C#
- - PHP / Perl
 
 #### Open Source Contributor
 
@@ -89,6 +90,7 @@ Regular, consistent contributions to Open Source Software keep my skills sharp. 
  - [RubyMotion: Dreams Do Come True](http://www.sitepoint.com/rubymotion-dreams-do-come-true/)
  - [Make Your P@55w0rd Secure](http://wistful-thinking.com/make-your-p55w0rd-secure/)
  - [TDD is **D**arned **D**ifficult](http://wistful-thinking.com/tdd-is-darned-difficult/)
+ - [On a Date with Ruby](http://wistful-thinking.com/on-a-date-with-ruby/)
 
 ##### Screencasts
 
@@ -107,7 +109,7 @@ I am an [active contributor](http://resume.github.io/?parkint) to [Open Source S
 
 Senior Rails Developer
 
-I am responsible for the Rails API (back-end) for [Disciplr.com](https://disciplr.com) that feeds an Angular JS front-end.
+I am responsible for micro-services that power [Disciplr.com](https://disciplr.com) including Rails API services
 
 Software Test Engineer
 
@@ -132,9 +134,8 @@ I worked on the emerging Internet Technologies as a [Product Specialist](https:/
 
  - [RIot'D](http://riotd.mentallic.com/) : HTML/CSS/Javascript
  - [Wistful-Thinking](http://www.wistful-thinking.com) : Node.js (Ghose)
- - [Formula 1 Fan Site](http://f1topten.com) : Ruby on Rails
  - [Nitrous.Tips](http://nitrous.tips/) : HTML/CSS/Javascript
  - [BusinessSpew<sup>TM</sup>](http://goo.gl/LASwoq) : Rails on Heroku
- - [EnderStore](http://www.enderstore.com/) : Ruby on Rails
+ - [Slakidasical](http://slackidasical.com/) : List of Slack-bots I have built
 
 I am always interested in new technology challenges and would welcome an opportunity to apply my [creative talents](https://github.com/ParkinT/HireMe/blob/TechnicalAchievements/ACCOMPLISHMENTS.md#technical-writing-and-presentations) and [unique set of skills](https://github.com/ParkinT/HireMe/blob/Skills/EXPERTISE.md) to __[Solving Problems](https://github.com/ParkinT/HireMe#tldr)__.
