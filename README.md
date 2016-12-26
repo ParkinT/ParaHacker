@@ -37,6 +37,8 @@ Currently responsible for the Rails API (back-end) of [Disciplr.com](https://dis
 
 #### Technical Writing
 
+Author of [Mastering Git](https://www.packtpub.com/application-development/mastering-git-video) for [Packt Publishing](https://www.packtpub.com/application-development/mastering-git-video)
+
 Author for [RubySource.com](http://rubysource.com/author/tparkin/)
 
 Second Interview with [Charles Max Wood](https://devchat.tv/ruby-rogues/245-rr-the-charles-max-wood-interview-with-thom-parkin) aired as Ruby Rogues episode 245
@@ -54,14 +56,15 @@ Created [Regular Expressions](https://learnable.com/jumpcasts/get-started-with-r
 Conducted [Online Expert](http://www.sitepoint.com/we-talked-git-with-an-expert-the-transcript/) Session for Sitepoint on Regular Expressions
  
 #### Languages / Technologies / Sites
- - Ruby on Rails / Capistrano / Bundler / REST
- - Heroku / Docker / Nitrous.IO
+ - Ruby on Rails / Capistrano / Bundler
+ - REST API
+ - Git
+ - Heroku / Docker
+ - ES6
  - HTML / CSS / SASS
- - git / SVN
- - iOS / RubyMotion
  - JSON
  - MySQL / PostgeSQL / MSSQL
- - Angular JS / Node.JS
+ - Aurelia / Azure / .NET MVC
  - Unity3D / C#
 
 #### Open Source Contributor
@@ -71,11 +74,11 @@ Regular, consistent contributions to Open Source Software keep my skills sharp. 
 
 #### Screencasts
 
-[Nitrous.io video introduction](http://learnable.com/hub/play/47)
-
 [Beginner's Git](http://learnable.com/hub/play/60)
 
 [VIM: The Universal Editor](https://www.youtube.com/watch?v=P9x6wrIkZuA)
+
+[Nitrous.io video introduction](http://learnable.com/hub/play/47)
 
 
 ### Experience
@@ -84,13 +87,13 @@ Regular, consistent contributions to Open Source Software keep my skills sharp. 
 ##### Technical Writing
 
  - [Git Fundamentals](https://learnable.com/books/git-fundamentals)
- - [Nitrous.IO: Development in the Cloud](http://www.sitepoint.com/nitrous-io-rails-development-cloud/)
- - [Nitrous.IO and Heroku: A Perfect Pair](http://www.sitepoint.com/nitrous-io-heroku-perfect-pair/)
  - [The Path to Better VI Skills](http://www.sitepoint.com/path-better-vi-skills/)
  - [RubyMotion: Dreams Do Come True](http://www.sitepoint.com/rubymotion-dreams-do-come-true/)
  - [Make Your P@55w0rd Secure](http://wistful-thinking.com/make-your-p55w0rd-secure/)
  - [TDD is **D**arned **D**ifficult](http://wistful-thinking.com/tdd-is-darned-difficult/)
  - [On a Date with Ruby](http://wistful-thinking.com/on-a-date-with-ruby/)
+ - [Nitrous.IO: Development in the Cloud](http://www.sitepoint.com/nitrous-io-rails-development-cloud/)
+ - [Nitrous.IO and Heroku: A Perfect Pair](http://www.sitepoint.com/nitrous-io-heroku-perfect-pair/)
 
 ##### Screencasts
 
@@ -132,9 +135,9 @@ I worked on the emerging Internet Technologies as a [Product Specialist](https:/
 
 #### Portfolio of Parahacker Projects
 
+ - [VIM-A-Min](http://www.vimamin.com/?status=user_count) : Master Vim with "A minute a day" of practice
  - [RIot'D](http://riotd.mentallic.com/) : HTML/CSS/Javascript
  - [Wistful-Thinking](http://www.wistful-thinking.com) : Node.js (Ghose)
- - [Nitrous.Tips](http://nitrous.tips/) : HTML/CSS/Javascript
  - [BusinessSpew<sup>TM</sup>](http://goo.gl/LASwoq) : Rails on Heroku
  - [Slakidasical](http://slackidasical.com/) : List of Slack-bots I have built
 
